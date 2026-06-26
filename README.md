@@ -17,4 +17,5 @@ Both actions have a clean **remove** option that fully reverts them.
 2. Right-click -> **Run as administrator**.
 3. Answer the prompts, then **reboot** — the global timer request and the NVIDIA tweak only take full effect after a restart.
 
+
 Made with [Claude.ai](https://claude.ai).
